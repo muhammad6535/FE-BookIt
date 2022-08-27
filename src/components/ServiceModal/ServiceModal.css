@@ -1,0 +1,33 @@
+body {
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+
+.Container {
+  margin-top: 10px;
+  margin-left: 20%;
+  /* width: 100%; */
+}
+
+.button_style {
+  margin-right: 10px;
+  margin-top: 10px !important;
+}
+
+/* .centerTable {
+  margin: 0px auto;
+} */
+
+h5 {
+  color: #3f51b5;
+}
+
+.customInputCss {
+  display: grid;
+  width: 50% !important;
+  margin :10px;
+}
+
+/* #standard-basic{
+  width: 45%;
+} */

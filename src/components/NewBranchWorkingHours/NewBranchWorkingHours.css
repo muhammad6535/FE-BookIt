@@ -1,0 +1,18 @@
+.workingHours {
+    display: flex;
+    justify-content: space-between;
+}
+
+.timeInputs {
+    margin-top: 10px;
+    border-bottom: 0.5px solid rgb(176, 184, 180);
+
+}
+
+.checkBox {
+    margin-left: 55%;
+}
+
+.bottumBorder {
+    margin-top: 20px;
+}

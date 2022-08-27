@@ -1,0 +1,25 @@
+/* .App {
+    font-family: sans-serif;
+    text-align: center;
+  } */
+
+  body {
+    /* max-width: 300px; */
+    margin:auto !important;
+  }
+  .formList{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+  }
+
+  .addBtn{
+    margin-top: 10px;
+    background-color: green !important;
+    color:white !important;
+  }
+
+  .tableList {
+    margin-top: 2%;
+    margin-left: 8% !important;
+  }

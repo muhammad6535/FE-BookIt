@@ -1,0 +1,11 @@
+.container {
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  /* flex-direction: column; */
+}
+
+.fullScreen {
+  margin-top: 0px;
+  margin-bottom: 150px;
+}
